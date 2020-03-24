@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecLab1", "SecLab1\SecLab1.csproj", "{F01BB4A5-B91B-43E9-AF5E-A43B6B37A978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecLab4", "SecLab4\SecLab4.csproj", "{99ED3869-D023-48CB-AF7D-87CF2554A585}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F01BB4A5-B91B-43E9-AF5E-A43B6B37A978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01BB4A5-B91B-43E9-AF5E-A43B6B37A978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01BB4A5-B91B-43E9-AF5E-A43B6B37A978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01BB4A5-B91B-43E9-AF5E-A43B6B37A978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ED3869-D023-48CB-AF7D-87CF2554A585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ED3869-D023-48CB-AF7D-87CF2554A585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ED3869-D023-48CB-AF7D-87CF2554A585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ED3869-D023-48CB-AF7D-87CF2554A585}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
